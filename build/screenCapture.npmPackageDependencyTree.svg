@@ -1,0 +1,18 @@
+<svg height="238" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="238" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ pg-native@1.10.1 </tspan>
+<tspan x="10" y="90">  ├─┬ libpq@1.8.7 </tspan>
+<tspan x="10" y="106">  │ ├── bindings@1.2.1 </tspan>
+<tspan x="10" y="122">  │ └── nan@2.6.2 </tspan>
+<tspan x="10" y="138">  ├── pg-types@1.6.0 </tspan>
+<tspan x="10" y="154">  └─┬ readable-stream@1.0.31 </tspan>
+<tspan x="10" y="170">    ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="186">    ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="202">    ├── isarray@0.0.1 </tspan>
+<tspan x="10" y="218">    └── string_decoder@0.10.31</tspan>
+</text>
+</svg>

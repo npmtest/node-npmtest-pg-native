@@ -1,0 +1,33 @@
+<svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="478" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-21 18:02:44 +0000    47839 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-21 18:02:44 +0000      232 bytes  Makefile</tspan>
+<tspan x="10" y="58">  2.  2017-04-21 18:02:44 +0000    10757 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-21 18:02:44 +0000      996 bytes  bench/index.js</tspan>
+<tspan x="10" y="90">  4.  2017-04-21 18:02:44 +0000     1335 bytes  bench/leaks.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-21 18:02:44 +0000     7569 bytes  index.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-21 18:02:44 +0000     3722 bytes  lib/copy-stream.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-21 18:02:44 +0000     2470 bytes  package.json</tspan>
+<tspan x="10" y="154">  8.  2017-04-21 18:02:44 +0000      870 bytes  test/array-mode.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-21 18:02:44 +0000     1949 bytes  test/async-workflow.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-21 18:02:44 +0000      782 bytes  test/cancel.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-21 18:02:44 +0000      616 bytes  test/connection.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-21 18:02:44 +0000     1473 bytes  test/copy-from.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-21 18:02:44 +0000      893 bytes  test/copy-to.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-21 18:02:44 +0000      731 bytes  test/custom-types.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-21 18:02:44 +0000     1024 bytes  test/domains.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-21 18:02:44 +0000      704 bytes  test/huge-query.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-21 18:02:44 +0000      852 bytes  test/index.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-21 18:02:44 +0000      629 bytes  test/load.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-21 18:02:44 +0000     1172 bytes  test/many-connections.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-21 18:02:44 +0000      681 bytes  test/many-errors.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-21 18:02:44 +0000       17 bytes  test/mocha.opts</tspan>
+<tspan x="10" y="378"> 22.  2017-04-21 18:02:44 +0000      989 bytes  test/multiple-queries.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-21 18:02:44 +0000     1282 bytes  test/notify.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-21 18:02:44 +0000     1186 bytes  test/prepare.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-21 18:02:44 +0000     2625 bytes  test/query-async.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-21 18:02:44 +0000     1967 bytes  test/query-sync.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-21 18:02:44 +0000      316 bytes  test/version.js</tspan>
+</text>
+</svg>
